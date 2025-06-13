@@ -41,6 +41,6 @@ Contributions are welcome! Please fork the repository and submit pull requests t
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
-For inquiries, contact [Your Name](mailto:youremail@example.com).
+For inquiries, contact Nalin Sandaruwan.
 
 
